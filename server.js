@@ -30,6 +30,7 @@ const MODEL_MAPPING = {
   'mistral-nemotron': 'mistralai/mistral-nemotron',
   'mixtral-8x22b-instruct': 'mistralai/mixtral-8x22b-instruct-v0.1',
   'kimi-k2-instruct-0905': 'moonshotai/kimi-k2-instruct-0905',
+  'kimi-k2-thinking': 'moonshotai/kimi-k2-thinking',
   'llama-3.1-405b-instruct': 'meta/llama-3.1-405b-instruct',
   'llama-3.3-70b-instruct': 'meta/llama-3.3-70b-instruct',
   'llama-3.1-70b-instruct': 'meta/llama-3.1-70b-instruct'
