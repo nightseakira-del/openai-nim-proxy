@@ -29,6 +29,7 @@ const MODEL_MAPPING = {
   'deepseek-r1-0528': 'deepseek-ai/deepseek-r1-0528',
   'mistral-large-3-675b': 'mistralai/mistral-large-3-675b-instruct-2512',
   'ministral-14b-instruct': 'mistralai/ministral-14b-instruct-2512',
+  'magistral-small-250': 'mistralai/magistral-small-2506',
   'mistral-nemotron': 'mistralai/mistral-nemotron',
   'mixtral-8x22b-instruct': 'mistralai/mixtral-8x22b-instruct-v0.1',
   'kimi-k2-instruct-0905': 'moonshotai/kimi-k2-instruct-0905',
