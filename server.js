@@ -27,14 +27,13 @@ const MODEL_MAPPING = {
   'deepseek-v3.1-terminus': 'deepseek-ai/deepseek-v3.1-terminus',
   'deepseek-r1': 'deepseek-ai/deepseek-r1',
   'deepseek-r1-0528': 'deepseek-ai/deepseek-r1-0528',
-  'nvidiа-llama-3.3': 'nvidia/llama-3.3-nemotron-super-49b-v1.5',
   'mistral-large-3-675b': 'mistralai/mistral-large-3-675b-instruct-2512',
-  'ministral-14b-instruct-2512': 'mistralai/ministral-14b-instruct-2512',
+  'ministral-14b-instruct': 'mistralai/ministral-14b-instruct-2512',
+  'mistral-nemotron': 'mistralai/mistral-nemotron',
+  'mixtral-8x22b-instruct': 'mistralai/mixtral-8x22b-instruct-v0.1',
   'kimi-k2-instruct-0905': 'moonshotai/kimi-k2-instruct-0905',
   'kimi-k2-thinking': 'moonshotai/kimi-k2-thinking',
-  'llama-3.1-405b-instruct': 'meta/llama-3.1-405b-instruct',
-  'llama-3.3-70b-instruct': 'meta/llama-3.3-70b-instruct',
-  'llama-3.1-70b-instruct': 'meta/llama-3.1-70b-instruct'
+  'qwen3-next-80b-a3b': 'qwen/qwen3-next-80b-a3b-thinking'
 };
 
 // Health check endpoint
