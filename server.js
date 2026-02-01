@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'deepseek-v3.1-terminus': 'deepseek-ai/deepseek-v3.1-terminus',
   'deepseek-r1': 'deepseek-ai/deepseek-r1',
   'deepseek-r1-0528': 'deepseek-ai/deepseek-r1-0528',
-  'mistral-large-3-675b': 'mistralai/mistral-large-3-675b-instruct-2512',
+  'kimi-k2.5': 'moonshotai/kimi-k2.5',
   'devstral-2-123b': 'mistralai/devstral-2-123b-instruct-2512',
   'ministral-14b-instruct': 'mistralai/ministral-14b-instruct-2512',
   'magistral-small-250': 'mistralai/magistral-small-2506',
